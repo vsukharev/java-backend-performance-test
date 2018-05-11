@@ -1,0 +1,10 @@
+{
+  "simulation": "testbackend.LoadSimulation",
+  "simulationId": "loadsimulation",
+  "start": 1525836820308,
+  "description": "",
+  "scenarios": ["Listing", "Registering"],
+  "assertions": [
+
+  ]
+}
