@@ -4,7 +4,7 @@ All the 3 implementations are based on Jersey.
 
 This is the repository that contains the implementation for the performance test commented in my blog in the following post:
 
-<post link is comming>
+<a href="http://www.fabriciosuarte.com/2018/05/java-microservices-what-is-way-to-go.html">Java Microservices: what is the way to go</a>
 
 About the directories structure:
 
